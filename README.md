@@ -1,4 +1,4 @@
-# Production-Grade Kubernetes Template
+# Production-Grade Kubernetes Templat
 This repository provides a comprehensive Kubernetes environment template designed for production deployments. It incorporates best practices for security, scalability, observability, and reliability, aligned with industry standards and DevOps principles.
 
 ## Overview
@@ -112,4 +112,5 @@ kubectl apply -k environments/dev
 
 Deploy PROD
 kubectl apply -k environments/prod
+
 ```
